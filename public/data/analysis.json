@@ -1,0 +1,486 @@
+{
+  "generated_at": "2025-12-06T19:20:07.482849Z",
+  "clusters": [
+    {
+      "id": 0,
+      "count": 26,
+      "center": {
+        "lat": 30.420528884615383,
+        "lon": -97.92405634615383
+      },
+      "top_issue": "TRFC HAZD/ DEBRIS",
+      "torch_risk": 0.3861
+    },
+    {
+      "id": 1,
+      "count": 102,
+      "center": {
+        "lat": 30.270884784313722,
+        "lon": -97.73907097058823
+      },
+      "top_issue": "Crash Urgent",
+      "torch_risk": 0.6091
+    },
+    {
+      "id": 2,
+      "count": 92,
+      "center": {
+        "lat": 30.397375771739135,
+        "lon": -97.7083632826087
+      },
+      "top_issue": "Crash Urgent",
+      "torch_risk": 0.6609
+    },
+    {
+      "id": 3,
+      "count": 65,
+      "center": {
+        "lat": 30.189647276923075,
+        "lon": -97.80936395384616
+      },
+      "top_issue": "Traffic Hazard",
+      "torch_risk": 0.4823
+    },
+    {
+      "id": 4,
+      "count": 38,
+      "center": {
+        "lat": 30.151732473684213,
+        "lon": -97.65847534210526
+      },
+      "top_issue": "COLLISION",
+      "torch_risk": 0.502
+    },
+    {
+      "id": 5,
+      "count": 36,
+      "center": {
+        "lat": 30.35696975,
+        "lon": -97.55204102777776
+      },
+      "top_issue": "COLLISION",
+      "torch_risk": 0.5277
+    }
+  ],
+  "network": {
+    "nodes": [
+      {
+        "id": "Menchaca Rd",
+        "centrality": 0.0012569060773480664,
+        "degree": 3,
+        "x": 0.7283103199987299,
+        "y": 0.550425436780083
+      },
+      {
+        "id": "N Ih 35 Svrd Nb",
+        "centrality": 0.0011172498465316146,
+        "degree": 3,
+        "x": 0.600007895011094,
+        "y": 0.3379654156200878
+      },
+      {
+        "id": "S 1st St",
+        "centrality": 0.000837937384898711,
+        "degree": 3,
+        "x": 0.6917044253130179,
+        "y": 0.5710978956557118
+      },
+      {
+        "id": "W Slaughter Ln",
+        "centrality": 0.0006982811540822591,
+        "degree": 3,
+        "x": 0.705487811340513,
+        "y": 0.5538110628350484
+      },
+      {
+        "id": "E Rundberg Ln",
+        "centrality": 0.0005586249232658073,
+        "degree": 2,
+        "x": 0.6156850828608135,
+        "y": 0.35013950081572554
+      },
+      {
+        "id": "E Braker Ln",
+        "centrality": 0.0005586249232658073,
+        "degree": 3,
+        "x": 0.58149668479597,
+        "y": 0.32962072712894863
+      },
+      {
+        "id": "N Ih 35 Svrd Sb",
+        "centrality": 0.0004189686924493555,
+        "degree": 2,
+        "x": 0.6332297471303026,
+        "y": 0.3541295155354396
+      },
+      {
+        "id": "W Oltorf St",
+        "centrality": 0.00027931246163290365,
+        "degree": 2,
+        "x": 0.6782209534928064,
+        "y": 0.5845526305025712
+      },
+      {
+        "id": "S Congress Ave",
+        "centrality": 0.00027931246163290365,
+        "degree": 2,
+        "x": 0.2625807711341153,
+        "y": 0.343334324812623
+      },
+      {
+        "id": "E Oltorf St",
+        "centrality": 0.00027931246163290365,
+        "degree": 2,
+        "x": 0.27708163922529777,
+        "y": 0.3395677643269115
+      },
+      {
+        "id": "BRODIE LN",
+        "centrality": 0.00013965623081645183,
+        "degree": 2,
+        "x": 0.1520041286481913,
+        "y": 0.6822543873653429
+      },
+      {
+        "id": "Fuchs Grove Rd",
+        "centrality": 0.00013965623081645183,
+        "degree": 2,
+        "x": 0.2972791215889335,
+        "y": 0.07497134512004744
+      },
+      {
+        "id": "Research Blvd Svrd Nb",
+        "centrality": 0.00013965623081645183,
+        "degree": 2,
+        "x": 0.8788603876028286,
+        "y": 0.3074707255583093
+      },
+      {
+        "id": "Congress Ave",
+        "centrality": 0.00013965623081645183,
+        "degree": 2,
+        "x": 0.7763892330280078,
+        "y": 0.7901042582237401
+      },
+      {
+        "id": "E 7th St",
+        "centrality": 0.00013965623081645183,
+        "degree": 2,
+        "x": 0.07745156658557774,
+        "y": 0.6172348090216504
+      },
+      {
+        "id": "Central Commerce Dr",
+        "centrality": 0.0,
+        "degree": 1,
+        "x": 0.33495059991361403,
+        "y": 0.9733413970763307
+      },
+      {
+        "id": "Grand Avenue Pkwy",
+        "centrality": 0.0,
+        "degree": 1,
+        "x": 0.3406237546691187,
+        "y": 0.954400236995306
+      },
+      {
+        "id": "COUNTRY WHITE LN",
+        "centrality": 0.0,
+        "degree": 1,
+        "x": 0.1614323562795916,
+        "y": 0.6890925538882587
+      },
+      {
+        "id": "E 12th St",
+        "centrality": 0.0,
+        "degree": 2,
+        "x": 0.38002767691761513,
+        "y": 0.5126437766153831
+      },
+      {
+        "id": "San Jacinto Blvd",
+        "centrality": 0.0,
+        "degree": 2,
+        "x": 0.3904040724976904,
+        "y": 0.5236486127141298
+      },
+      {
+        "id": "S CONGRESS AVE",
+        "centrality": 0.0,
+        "degree": 1,
+        "x": 0.4434958029861988,
+        "y": 0.05985923564934203
+      },
+      {
+        "id": "FOREMOST DR",
+        "centrality": 0.0,
+        "degree": 1,
+        "x": 0.44002606526273613,
+        "y": 0.04175796362365568
+      },
+      {
+        "id": "Durwood St",
+        "centrality": 0.0,
+        "degree": 1,
+        "x": 0.6729403380523934,
+        "y": 0.5990139460749442
+      },
+      {
+        "id": "E 41st St",
+        "centrality": 0.0,
+        "degree": 1,
+        "x": 0.9480741527082829,
+        "y": 0.5558921599557453
+      },
+      {
+        "id": "Red River St",
+        "centrality": 0.0,
+        "degree": 1,
+        "x": 0.9323617605339917,
+        "y": 0.5520201424379554
+      },
+      {
+        "id": "Davis Ln",
+        "centrality": 0.0,
+        "degree": 1,
+        "x": 0.1317934699250659,
+        "y": 0.30893808368419856
+      },
+      {
+        "id": "Cameron Loop",
+        "centrality": 0.0,
+        "degree": 1,
+        "x": 0.11755618496734983,
+        "y": 0.2988370078410353
+      },
+      {
+        "id": "Randy Rd",
+        "centrality": 0.0,
+        "degree": 1,
+        "x": 0.06944344025248723,
+        "y": 0.5361514030580423
+      },
+      {
+        "id": "Anderson Mill Rd",
+        "centrality": 0.0,
+        "degree": 2,
+        "x": 0.06103218066736818,
+        "y": 0.5289258400552419
+      },
+      {
+        "id": "Emerald Forest Dr",
+        "centrality": 0.0,
+        "degree": 1,
+        "x": 0.8985043473241201,
+        "y": 0.22009196905659387
+      }
+    ],
+    "edges": [
+      {
+        "source": "OAK VALLEY DR",
+        "target": "WESTWOOD TER",
+        "weight": 3
+      },
+      {
+        "source": "Oak Springs Dr",
+        "target": "Airport Blvd",
+        "weight": 2
+      },
+      {
+        "source": "E 7th St",
+        "target": "N Pleasant Valley Rd",
+        "weight": 2
+      },
+      {
+        "source": "Burnet Rd",
+        "target": "W Braker Ln",
+        "weight": 2
+      },
+      {
+        "source": "Burnet Rd",
+        "target": "Hancock Dr",
+        "weight": 2
+      },
+      {
+        "source": "Central Commerce Dr",
+        "target": "Grand Avenue Pkwy",
+        "weight": 1
+      },
+      {
+        "source": "S 1st St",
+        "target": "W Slaughter Ln",
+        "weight": 1
+      },
+      {
+        "source": "S 1st St",
+        "target": "Mairo St",
+        "weight": 1
+      },
+      {
+        "source": "S 1st St",
+        "target": "W Oltorf St",
+        "weight": 1
+      },
+      {
+        "source": "W Slaughter Ln",
+        "target": "Menchaca Rd",
+        "weight": 1
+      },
+      {
+        "source": "W Slaughter Ln",
+        "target": "Chisholm Ln",
+        "weight": 1
+      },
+      {
+        "source": "COUNTRY WHITE LN",
+        "target": "BRODIE LN",
+        "weight": 1
+      },
+      {
+        "source": "BRODIE LN",
+        "target": "DAVIS LN",
+        "weight": 1
+      },
+      {
+        "source": "E 12th St",
+        "target": "San Jacinto Blvd",
+        "weight": 1
+      },
+      {
+        "source": "E 12th St",
+        "target": "Cometa St",
+        "weight": 1
+      },
+      {
+        "source": "San Jacinto Blvd",
+        "target": "E 6th St",
+        "weight": 1
+      },
+      {
+        "source": "S CONGRESS AVE",
+        "target": "FOREMOST DR",
+        "weight": 1
+      },
+      {
+        "source": "W Oltorf St",
+        "target": "Durwood St",
+        "weight": 1
+      },
+      {
+        "source": "E 41st St",
+        "target": "Red River St",
+        "weight": 1
+      },
+      {
+        "source": "Davis Ln",
+        "target": "Cameron Loop",
+        "weight": 1
+      },
+      {
+        "source": "Randy Rd",
+        "target": "Anderson Mill Rd",
+        "weight": 1
+      },
+      {
+        "source": "Anderson Mill Rd",
+        "target": "N Fm 620 Rd",
+        "weight": 1
+      },
+      {
+        "source": "Emerald Forest Dr",
+        "target": "W William Cannon Dr",
+        "weight": 1
+      },
+      {
+        "source": "W William Cannon Dr",
+        "target": "Cannonleague Dr",
+        "weight": 1
+      },
+      {
+        "source": "Fuchs Grove Rd",
+        "target": "Gregg Ln",
+        "weight": 1
+      },
+      {
+        "source": "Fuchs Grove Rd",
+        "target": "Cameron Rd",
+        "weight": 1
+      },
+      {
+        "source": "Menchaca Rd",
+        "target": "Barton Skwy",
+        "weight": 1
+      },
+      {
+        "source": "Menchaca Rd",
+        "target": "Monarch Dr",
+        "weight": 1
+      },
+      {
+        "source": "NORTHLAND DR",
+        "target": "BALCONES DR",
+        "weight": 1
+      },
+      {
+        "source": "PARKER LN",
+        "target": "E OLTORF ST",
+        "weight": 1
+      },
+      {
+        "source": "E 5th St",
+        "target": "Brazos St",
+        "weight": 1
+      },
+      {
+        "source": "E 11th St",
+        "target": "Branch St",
+        "weight": 1
+      },
+      {
+        "source": "S US 183 HWY",
+        "target": "E WILLIAM CANNON DR",
+        "weight": 1
+      },
+      {
+        "source": "W Fm 1626 Rd",
+        "target": "Rancho Alto Rd",
+        "weight": 1
+      },
+      {
+        "source": "S Congress Ave",
+        "target": "E Oltorf St",
+        "weight": 1
+      },
+      {
+        "source": "S Congress Ave",
+        "target": "Red Bird Ln",
+        "weight": 1
+      },
+      {
+        "source": "E Oltorf St",
+        "target": "Parker Ln",
+        "weight": 1
+      },
+      {
+        "source": "E Slaughter Ln",
+        "target": "Thaxton Rd",
+        "weight": 1
+      },
+      {
+        "source": "E SLAUGHTER LN",
+        "target": "THAXTON RD",
+        "weight": 1
+      },
+      {
+        "source": "Teri Rd",
+        "target": "S Pleasant Valley Rd",
+        "weight": 1
+      }
+    ]
+  },
+  "torch_training": {
+    "epochs": 55,
+    "final_loss": 0.00765,
+    "note": "Tiny torch MLP trained on normalized lat/lon/severity"
+  }
+}
