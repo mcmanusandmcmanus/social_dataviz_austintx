@@ -44,3 +44,8 @@ The app will use this token for the Socrata API if present. You can copy your ex
 - `npm run build && npm start` — production build + serve
 - `npm run lint` — lint TS/JS
 - `npm run analyze:data` — run the Python pipeline to refresh JSON outputs
+
+## Render deploy (render.yaml)
+- Repo already has `render.yaml`. On Render, choose “New > Blueprint” and point to the repo/branch.
+- Default build: `npm install && npm run build`; start: `npm start`; Node 20.
+- Add environment variable `AUSTIN_DATA_APP_TOKEN` for higher API quotas; omit if you want to rely on anonymous access + bundled fallbacks.

@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: austin-traffic-storyboard
+    env: node
+    plan: free
+    repo: https://github.com/mcmanusandmcmanus/social_dataviz_austintx
+    branch: main
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_VERSION
+        value: 20
+      - key: AUSTIN_DATA_APP_TOKEN
+        sync: false
