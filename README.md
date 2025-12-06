@@ -41,9 +41,16 @@ The app will use this token for the Socrata API if present. You can copy your ex
 
 ## Scripts
 - `npm run dev` — start the Next.js dev server
+- `npm run dev:lan` — start dev server bound to `0.0.0.0:3000` for testing from a phone on the same Wi‑Fi
 - `npm run build && npm start` — production build + serve
 - `npm run lint` — lint TS/JS
 - `npm run analyze:data` — run the Python pipeline to refresh JSON outputs
+
+## Mobile testing on your phone
+1) Make sure your phone and computer are on the same network.
+2) Start the dev server bound to all interfaces: `npm run dev:lan` (or `npm run dev -- --hostname 0.0.0.0 --port 3000`).
+3) Find your computer’s LAN IP (e.g., `192.168.x.x`) and open `http://<LAN_IP>:3000` in mobile Safari/Chrome.
+4) The mosaic layout is responsive by default—no separate build needed.
 
 ## Render deploy (render.yaml)
 - Repo already has `render.yaml`. On Render, choose “New > Blueprint” and point to the repo/branch.
